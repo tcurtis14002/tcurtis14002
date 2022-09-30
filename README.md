@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack dev, beautiful UX/UI, and back end security
 - 🌱 I’m currently learning CSS, next JS
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me twcurtis14002@gmail.com
+- 📫 How to reach me willdev00100@gmail.com
 
 <!---
 tcurtis14002/tcurtis14002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
