@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tcurtis14002
 - 👀 I’m interested in full stack dev, beautiful UX/UI, and back end security
-- 🌱 I’m currently learning CSS, next JS
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me willdev00100@gmail.com
 
