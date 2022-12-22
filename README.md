@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tcurtis14002
-- 👀 I’m interested in full stack dev, beautiful UX/UI, and back end security
+- 👀 I’m interested in beautiful front end design and functional back end setup
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me willdev00100@gmail.com
