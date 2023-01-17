@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tcurtis14002
-- 👀 I’m interested in beautiful front end design and functional back end setup
-- 🌱 I’m currently learning Javascript
+- 👋 Hi, I’m Tyler
+- 👀 I’m interested in beautiful front end design
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me willdev00100@gmail.com
 
